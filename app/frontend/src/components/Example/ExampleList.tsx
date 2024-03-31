@@ -3,8 +3,8 @@ import { Example } from "./Example";
 import styles from "./Example.module.css";
 
 const DEFAULT_EXAMPLES: string[] = [
-    "Aaron tyler likes looking at twislers.",
-    "What is included in my Northwind Health Plus plan that is not in standard?",
+    "Aaron tyler likes looking at Assembly."
+    /* "What is included in my Northwind Health Plus plan that is not in standard?",
     "What happens in a performance review?",
     "What does a Product Manager do?"
 ];
