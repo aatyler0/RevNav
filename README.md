@@ -1,9 +1,9 @@
 # RevNav: An AI Chatbot for Prospective George Washington University Students
-
-## Aaron Tyler
+## Team:
+### Aaron Tyler
 - George Washington University
 - aatyler@gwu.edu
-## Richard Nesbitt
+### Richard Nesbitt
 - George Washington University
 - rnesbitt@gwu.edu
 
