@@ -6,6 +6,5 @@
 ### Richard Nesbitt
 - George Washington University
 - rnesbitt@gwu.edu
-
 # 
 ## URL: 
