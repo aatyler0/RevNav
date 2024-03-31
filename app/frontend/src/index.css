@@ -4,13 +4,15 @@
 
 html,
 body {
+    color: rgb(219, 217, 217);
     height: 100%;
     margin: 0;
     padding: 0;
+    font-family: monospace;
 }
 
 html {
-    background: #f2f2f2;
+    background: #3f3f3f00;
 
     font-family:
         "Segoe UI",
