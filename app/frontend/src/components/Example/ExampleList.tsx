@@ -3,10 +3,9 @@ import { Example } from "./Example";
 import styles from "./Example.module.css";
 
 const DEFAULT_EXAMPLES: string[] = [
-    "Aaron tyler likes looking at Assembly."
-    /* "What is included in my Northwind Health Plus plan that is not in standard?",
-    "What happens in a performance review?",
-    "What does a Product Manager do?"
+    "When are finals in fall 2025?",
+    "How many schools are offered?",
+    "How long is spring break?"
 ];
 
 const GPT4V_EXAMPLES: string[] = [
