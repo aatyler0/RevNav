@@ -7,4 +7,4 @@
 - George Washington University
 - rnesbitt@gwu.edu
 # 
-## URL: 
+## URL: N/A (Issues with domain code)
