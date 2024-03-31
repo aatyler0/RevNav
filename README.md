@@ -1,5 +1,4 @@
-# RevNav:
-### An AI Chatbot for Prospective George Washington University Students
+# RevNav: An AI Chatbot for Prospective George Washington University Students
 
 ## Aaron Tyler
 - George Washington University
